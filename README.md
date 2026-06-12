@@ -13,7 +13,8 @@ See link to **blog post** for a more concise report - *[Towards Data Science](#)
 
 ## Introduction
 
-In January 2026, I moved to Munich, Germany as a new immigrant. One of my first questions was: *"Which neighbourhood should I settle in?"* Munich has 25 Stadtbezirke (districts), so as a new immigrant, a vital question to answer is **"What district do I settle in?"**
+I moved to Germany in January 2026 as a new immigrant. After four months of searching for opportunities in a small city with limited prospects, I made a decision to move to another city. But before packing my bags, I did what any data analyst would do. I built an analysis that helped me make a data-driven decision to move to Munich.
+Munich has 25 Stadtbezirke (districts) and they are not all equal. As a new immigrant, a vital question to answer is *"What district do I settle in?"* or *"Which neighbourhood should I settle in?"*
 
 The aim of this project is to group Munich's 25 districts in order of desirability for new immigrants using Machine Learning and Data Visualisation techniques. I performed my analysis using the following criteria:
 
