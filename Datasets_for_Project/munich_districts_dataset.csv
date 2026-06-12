@@ -1,0 +1,26 @@
+district_id,district_name,unemployment_rate,crime_rate,avg_rent_eur,desirability
+1,Altstadt-Lehel,4.2,98.2,2100,Semi-Desirable
+2,Maxvorstadt,3.8,42.1,1950,Desirable
+3,Schwabing-West,3.5,35.4,1850,Desirable
+4,Schwabing-Freimann,3.2,28.6,1750,Desirable
+5,Au-Haidhausen,4.8,52.3,1800,Desirable
+6,Sendling,5.2,38.7,1550,Least Desirable
+7,Sendling-Westpark,4.6,31.2,1500,Most Desirable
+8,Schwanthalerhöhe,5.8,45.6,1650,Least Desirable
+9,Neuhausen-Nymphenburg,3.4,29.8,1900,Desirable
+10,Moosach,5.6,41.3,1450,Least Desirable
+11,Milbertshofen-Am Hart,6.2,48.7,1400,Least Desirable
+12,Bogenhausen,2.8,22.4,2050,Desirable
+13,Berg am Laim,5.9,43.2,1350,Least Desirable
+14,Trudering-Riem,4.8,35.6,1300,Least Desirable
+15,Ramersdorf-Perlach,6.4,51.8,1380,Least Desirable
+16,Obergiesing-Fasangarten,5.1,38.4,1420,Least Desirable
+17,Untergiesing-Harlaching,3.9,27.9,1600,Most Desirable
+18,Thalkirchen-Obersendling-Forstenried,3.6,25.3,1680,Most Desirable
+19,Hadern,4.1,28.7,1550,Most Desirable
+20,Pasing-Obermenzing,3.7,26.4,1480,Most Desirable
+21,Aubing-Lochhausen-Langwied,5.3,32.1,1250,Least Desirable
+22,Allach-Untermenzing,4.2,24.8,1200,Most Desirable
+23,Feldmoching-Hasenbergl,7.1,55.3,1180,Least Desirable
+24,Laim,5.4,40.2,1420,Least Desirable
+25,Maxvorstadt-West,3.9,33.6,1750,Desirable
