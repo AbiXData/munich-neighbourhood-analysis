@@ -56,7 +56,7 @@ All charts are fully interactive - hosted on GitHub Pages:
 
 ## View Full Notebook
 
-👉 [Open notebook on GitHub](https://github.com/AbiXData/munich-neighbourhood-analysis/blob/main/Munich_Neighbourhood_Analysis_Full.ipynb)
+👉 [Open notebook on GitHub](https://github.com/AbiXData/munich-neighbourhood-analysis/blob/main/Analysis of Munich Neighbourhoods using ML (notebook_full).ipynb https) 
 
 ---
 
@@ -66,7 +66,7 @@ K-Means clustering (k=4) was used to group all 25 Munich districts to produce a 
 
 ### Desirability Index Chart
 
-![Munich District Desirability Index](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart5_desirability.html)
+![Munich District Desirability Index](Munich_Desirability_Chart.png)
 
 > For the fully interactive version: [Click here](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart5_desirability.html)
 
