@@ -1,13 +1,13 @@
 # Analysis of Munich Neighbourhoods for New Immigrants Using Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abiola_Tijani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abitijani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abi_Tijani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abitijani/)
 [![GitHub](https://img.shields.io/badge/GitHub-AbiXData-black?style=flat&logo=github)](https://github.com/AbiXData)
 
-This is a repository for the Analysis of Munich Neighbourhoods for New Immigrants Using Machine Learning. All analysis was done by **Abiola Tijani**.
+This is a repository for the Analysis of Munich Neighbourhoods for New Immigrants Using Machine Learning. All analysis was done by **Abi Tijani**.
 
 The datasets and Google Colab notebooks used in the project are included in this repository. A GeoJSON file with geographic coordinates for all 25 Munich districts is also included as a supplementary reference file.
 
-See link to **blog post** for a more concise report — *[Towards Data Science](#) · [Medium](#)* *(links to be added after publication)*
+See link to **blog post** for a more concise report - *[Towards Data Science](#) - [Medium](#)* *(links to be added after publication)*
 
 ---
 
@@ -18,7 +18,7 @@ In January 2026, I moved to Munich, Germany as a new immigrant. One of my first 
 The aim of this project is to group Munich's 25 districts in order of desirability for new immigrants using Machine Learning and Data Visualisation techniques. I performed my analysis using the following criteria:
 
 - **Primary Benchmarks:** Unemployment rate and Crime rate per district
-- **Secondary Benchmark:** Average monthly rent for a 1-bedroom apartment per district (€)
+- **Secondary Benchmark:** Average monthly rent for a 1-bedroom apartment per district (EUR/month)
 
 ---
 
@@ -26,12 +26,12 @@ The aim of this project is to group Munich's 25 districts in order of desirabili
 
 ### Python Libraries
 
-- **Pandas** — Used for storing, cleaning and manipulating the district data. All three datasets were loaded into Pandas dataframes and merged into one final dataframe for analysis
-- **NumPy** — Used for numerical operations and array handling throughout the analysis
-- **GeoPandas** — Used to create a GeoDataFrame with point coordinates (latitude and longitude) for all 25 Munich districts using `gpd.points_from_xy()`
-- **Scikit-learn** — Used for two key Machine Learning tasks: `StandardScaler` to normalise the data before clustering, and `KMeans` to apply K-Means clustering with k=4
-- **Plotly Express** — Used to build all interactive charts and the district map. Charts were saved as HTML files and hosted on GitHub Pages
-- **Matplotlib** — Used for early exploratory bar charts during the data analysis phase
+- **Pandas** - Used for storing, cleaning and manipulating the district data. All three datasets were loaded into Pandas dataframes and merged into one final dataframe for analysis
+- **NumPy** - Used for numerical operations and array handling throughout the analysis
+- **GeoPandas** - Used to create a GeoDataFrame with point coordinates (latitude and longitude) for all 25 Munich districts using gpd.points_from_xy()
+- **Scikit-learn** - Used for two key Machine Learning tasks: StandardScaler to normalise the data before clustering, and KMeans to apply K-Means clustering with k=4
+- **Plotly Express** - Used to build all interactive charts and the district map. Charts were saved as HTML files and hosted on GitHub Pages
+- **Matplotlib** - Used for early exploratory bar charts during the data analysis phase
 
 ### Project Flowchart
 
@@ -41,7 +41,7 @@ The aim of this project is to group Munich's 25 districts in order of desirabili
 
 ## Interactive Charts
 
-All charts are fully interactive — hosted on GitHub Pages:
+All charts are fully interactive - hosted on GitHub Pages:
 
 | Chart | Link |
 |---|---|
@@ -64,15 +64,24 @@ All charts are fully interactive — hosted on GitHub Pages:
 
 K-Means clustering (k=4) was used to group all 25 Munich districts to produce a final **Munich District Desirability Index.**
 
-View the full interactive map here: [Munich District Map](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart6_map.html)
+### Desirability Index Chart
+
+![Munich District Desirability Index](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart5_desirability.html)
+
+> For the fully interactive version: [Click here](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart5_desirability.html)
+
+### Interactive District Map
+
+> [View Interactive Munich District Map](https://abixdata.github.io/munich-neighbourhood-analysis/Interactive_Charts/chart6_map.html)
 
 ---
 
 ## About
 
-Analysis of Munich Neighbourhoods for New Immigrants Using Machine Learning — by Abiola Tijani, 2026
+Analysis of Munich Neighbourhoods for New Immigrants Using Machine Learning - by Abi Tijani, 2026
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abitijani/) | 🐙 [GitHub](https://github.com/AbiXData)
+[LinkedIn](https://www.linkedin.com/in/abitijani/) | [GitHub](https://github.com/AbiXData)
 
 ### Topics
 `python` `data-analytics` `machine-learning` `k-means` `munich` `germany` `plotly-express` `data-visualisation` `geopandas` `scikit-learn` `new-immigrants` `kmeans-clustering` `pandas` `numpy`
+
