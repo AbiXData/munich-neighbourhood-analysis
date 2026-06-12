@@ -35,7 +35,7 @@ The aim of this project is to group Munich's 25 districts in order of desirabili
 
 ### Project Flowchart
 
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.png)
 
 ---
 
