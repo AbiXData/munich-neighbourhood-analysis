@@ -56,7 +56,7 @@ All charts are fully interactive - hosted on GitHub Pages:
 
 ## View Full Notebook
 
-👉 [Open notebook on GitHub](https://github.com/AbiXData/munich-neighbourhood-analysis/blob/main/Analysis of Munich Neighbourhoods using ML (notebook_full).ipynb https) 
+👉 [Open notebook on GitHub](https://github.com/AbiXData/munich-neighbourhood-analysis/blob/main/Analysis_of_Munich_Neighbourhoods_using_ML_notebook_full.ipynb)
 
 ---
 
