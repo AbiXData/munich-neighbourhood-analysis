@@ -10,6 +10,17 @@ Read the full article on [Medium](https://medium.com/@abixdata/analysis-of-munic
 
 ---
 
+## Problem Statement
+
+Munich has 25 Stadtbezirke (districts) and they are not all equal. As a new immigrant, a vital question to answer is "What district do I settle in?"
+
+The aim of this project is to group Munich's 25 districts in order of desirability for new immigrants using Machine Learning and Data Visualisation techniques. I performed my analysis using the following criteria:
+
+- **Primary Benchmarks:** Unemployment rate and Crime rate per district
+- **Secondary Benchmark:** Average monthly rent for a 1-bedroom apartment per district (EUR/month)
+
+---
+
 ## What?
 
 An end-to-end data analytics and Machine Learning project that analyses Munich's 25 Stadtbezirke (districts) and ranks them in order of desirability for new immigrants, using crime rates, unemployment rates and average rent as key indicators. The project includes Python analysis, K-Means clustering, interactive Plotly Express charts and a Power BI dashboard.
@@ -57,17 +68,6 @@ The key finding: only 24% of Munich's districts fall into the Most Desirable cat
 - Rent range slider - filter by maximum monthly budget
 - Unemployment range slider - filter by employment level
 - Data table showing all districts with their desirability category
-
----
-
-## Problem Statement
-
-Munich has 25 Stadtbezirke (districts) and they are not all equal. As a new immigrant, a vital question to answer is "What district do I settle in?"
-
-The aim of this project is to group Munich's 25 districts in order of desirability for new immigrants using Machine Learning and Data Visualisation techniques. I performed my analysis using the following criteria:
-
-- **Primary Benchmarks:** Unemployment rate and Crime rate per district
-- **Secondary Benchmark:** Average monthly rent for a 1-bedroom apartment per district (EUR/month)
 
 ---
 
